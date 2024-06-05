@@ -3,7 +3,7 @@
     "timplexz": "^1.1.6"
   },
   "name": "@gusti46/onedionys",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "description": "onedionys",
   "main": "index.js",
   "devDependencies": {},
